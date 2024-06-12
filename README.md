@@ -48,12 +48,6 @@
   </a>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=busraademirr&show_icons=true&locale=en" alt="busraademirr" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=busraademirr" alt="busraademirr" />
-</p>
 <p align="left">
   <a href="https://github.com/Busraademirr" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"/>
