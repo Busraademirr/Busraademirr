@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Büşra Demir</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="left">Hi 👋, I'm Büşra Demir</h1>
+<h3 align="left">A passionate frontend developer from Turkey</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=busraademirr" alt="busraademirr" />
+    <img src="https://github-profile-trophy.vercel.app/?username=busraademirr&theme=onedark" alt="busraademirr" />
   </a>
 </p>
 🔭 I’m currently working on VETAPP2
@@ -39,7 +39,7 @@
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -48,15 +48,15 @@
   </a>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=busraademirr&show_icons=true&locale=en&layout=compact" alt="busraademirr" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=busraademirr&show_icons=true&locale=en&layout=compact&theme=onedark" alt="busraademirr" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=busraademirr&show_icons=true&locale=en" alt="busraademirr" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=busraademirr&show_icons=true&locale=en&theme=onedark" alt="busraademirr" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=busraademirr&" alt="busraademirr" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=busraademirr&theme=onedark" alt="busraademirr" />
 </p>
-<p align="center">
+<p align="left">
   <a href="https://github.com/Busraademirr" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"/>
   </a>
@@ -67,9 +67,7 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"/>
   </a>
 </p>
-![GitHub metrics](
-
-<p align="center">
+<p align="left">
   <a href="https://metrics.lecoq.io/Busraademirr">
     <img src="https://metrics.lecoq.io/Busraademirr" alt="GitHub metrics" />
   </a>
