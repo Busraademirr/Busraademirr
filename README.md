@@ -2,7 +2,7 @@
 <h3 align="left">A passionate frontend developer from Turkey</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=busraademirr&theme=onedark" alt="busraademirr" />
+    <img src="https://github-profile-trophy.vercel.app/?username=busraademirr&theme=flat" alt="busraademirr" />
   </a>
 </p>
 🔭 I’m currently working on VETAPP2
@@ -48,13 +48,13 @@
   </a>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=busraademirr&show_icons=true&locale=en&layout=compact&theme=onedark" alt="busraademirr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=busraademirr&show_icons=true&locale=en&layout=compact" alt="busraademirr" />
 </p>
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=busraademirr&show_icons=true&locale=en&theme=onedark" alt="busraademirr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=busraademirr&show_icons=true&locale=en" alt="busraademirr" />
 </p>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=busraademirr&theme=onedark" alt="busraademirr" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=busraademirr" alt="busraademirr" />
 </p>
 <p align="left">
   <a href="https://github.com/Busraademirr" target="_blank">
