@@ -5,7 +5,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=busraademirr&theme=flat" alt="busraademirr" />
   </a>
 </p>
-🔭 I’m currently working on VETAPP2
+🔭 I’m currently working on Netflix Project
 
 🌱 I’m currently learning React
 
